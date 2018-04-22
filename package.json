@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/iicoom/Download#readme",
   "dependencies": {
+    "async": "^2.6.0",
     "json-format": "^1.0.1",
     "request": "^2.83.0",
     "superagent": "^3.8.2"
